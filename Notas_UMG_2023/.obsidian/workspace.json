@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a78ce7f34fe955a",
+        "id": "92cf59d90078327a",
         "type": "tabs",
         "children": [
           {
-            "id": "96c6a50fd504be82",
+            "id": "ad21415837d9881c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "right": {
     "id": "55f412788e818611",
@@ -138,9 +138,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "96c6a50fd504be82",
+  "active": "ad21415837d9881c",
   "lastOpenFiles": [
+    "Seminario/Propuesta.md",
+    "Seminario/Inicio 11-07-2023.md",
+    "Seminario/12-07-2023.md",
+    "Imagenes/Programa_esistente.jpeg",
+    "Imagenes/Pasted image 20230718003929.png",
+    "Imagenes/Pasted image 20230718003832.png",
+    "Imagenes/Pasted image 20230718003754.png",
+    "Imagenes/Pasted image 20230718003652.png",
+    "Imagenes/Pasted image 20230718003627.png",
+    "Imagenes/Pasted image 20230718000133.png",
     "Telecomunicaciones/Comando Generales.md",
+    "Imagenes/Pasted image 20230717235438.png",
+    "Imagenes",
+    "Proyecto de graduación II/17-07-2023.md",
     "Telecomunicaciones/17-07-2023.md",
     "2023-07-17.md",
     "Untitled.canvas",
@@ -150,8 +163,6 @@
     "Aseguramiento/Comandos.md",
     "Telecomunicaciones/14-07-2023.md",
     "Telecomunicaciones",
-    "Seminario/Inicio 11-07-2023.md",
-    "Seminario/12-07-2023.md",
     "Seminario",
     "Proyecto de graduación II/Inicio 10-07-2023.md",
     "Proyecto de graduación II/12-07-2023.md",

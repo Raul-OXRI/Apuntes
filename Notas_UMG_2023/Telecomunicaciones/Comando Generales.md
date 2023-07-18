@@ -1,8 +1,4 @@
 ```Cisco
 Enable
-Condigure terminal
+Configure terminal
 ```
-
-hola | como | estas
------|-----|-----
-Aqui|esta|la
