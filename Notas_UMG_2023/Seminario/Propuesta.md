@@ -23,27 +23,41 @@ La oficina se encuentra en Lahi EEUU, donde es un iglesia Jesucristo de los Sant
 https://www.familysearch.org/es/about/
 
 ### Como se ve 
-![[Pasted image 20230717235438.png]]
+
+![](https://i.imgur.com/uMynzwi.png)
+
 Aquí nos registramos 
-![[Pasted image 20230718000133.png]]
+
+![](https://i.imgur.com/fcA9CM0.png)
+
 Ya se registrado nos encontramos con esta interfaz 
-![[Pasted image 20230718003652.png]]
+
+![](https://i.imgur.com/M5wRE2n.png)
+
 En el Var podemos ver el modulo de buscar donde le damos en donde es el registro
-![[Pasted image 20230718003832.png]]aquí nos vamos un poco abajo le damos en examinar las colecciones
-![[Pasted image 20230718003929.png]]
+
+![](https://i.imgur.com/t7cLRVz.png)
+
+aquí nos vamos un poco abajo le damos en examinar las colecciones
+
+![](https://i.imgur.com/KvA2fOh.png)
+
 y aquí ya podemos visualizar mas bien los registros y podemos filtrarlos
-![[Pasted image 20230718003754.png]]
-ya ubicado el lugar le damos mas opciones y se dirigirá en un modo de selección y obtenemos lo que tenemos abajo 
-![[Pasted image 20230718003627.png]]
+![](https://i.imgur.com/QUeDRdg.png)
+
+ya ubicado el lugar le damos mas opciones y se dirigirá en un modo de selección y obtenemos lo que tenemos abajo
+
+![](https://i.imgur.com/CGS4F25.png)
+
 Podemos visualizar unas de las problemáticas que los archivos están en formato PNG o mas conocidos en imágenes escaneadas y que el contenido es publico 
 ya que pudimos comprobarlo con crear una cuenta y hacer la búsqueda
 
-
-
 ## Plataforma existente
 En las practicas que realice a nivel Bachillerato tuve la oportunidad de hacerlas en la Pastoral que esta úbicada en el convento de Santo Domingo de Gúzman, donde coincidencia tuve la certeza de hacerla a la par de Alan David Gonzales, donde tuvimos el acercamiento de como se maneja el sistema de la Diócesis de la Verapaces, donde la encargada nos comento que hace un par de años llego un estudiante de la Mariano a realizar practicas dejo como culminación un programa que se encargaba de ingresar datos y realizar consultas lo podemos ver a continuación
-![[Programa_esistente.jpeg]]
-Con lo que esta plataforma se ha vuelto obsoleta ya que no le dieron continuación al programa y llego a su capacidad, ya que comenzó a ser lentas la consultas y que no están todos los datos que hasta la fecha de solo cuenta con 1800 datos ingresado a la plataforma
+
+![](https://i.imgur.com/97xASTl.jpg)
+
+Con lo que esta plataforma es local y no cuenta con la disponibilidad para las personas encargas de de secretaria en sus diferentes iglesias. por lo que llega a un punto de los problemas visto con anterioridad
 
 # Con quien 
 Las persona con quien tenemos el contacto es la secretaria de la Diócesis de la Verapaz
@@ -55,5 +69,3 @@ quien es el obispo de la región de la verapaces.
 
 # Medir
 Con este punto  podemos realizar una medición de  la agenda que lleva la señora Emelin donde se puede obtener un lista de certificados pendientes de igual forma se pude pasar una  una encuesta Adoc o cuestionario a las persona visitantes en la Diócesis para obtener un resultado para la medición.
-
-![](https://i.imgur.com/d8J1ycX.png)
