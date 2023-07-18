@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb64087cbcfde845",
+        "id": "0a78ce7f34fe955a",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb802bfe1c74c53",
+            "id": "96c6a50fd504be82",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cbb802bfe1c74c53",
+  "active": "96c6a50fd504be82",
   "lastOpenFiles": [
+    "Telecomunicaciones/Comando Generales.md",
+    "Telecomunicaciones/17-07-2023.md",
     "2023-07-17.md",
     "Untitled.canvas",
     "Aseguramiento/14-07-2023.md",
