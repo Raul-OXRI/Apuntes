@@ -69,3 +69,4 @@ quien es el obispo de la región de la verapaces.
 
 # Medir
 Con este punto  podemos realizar una medición de  la agenda que lleva la señora Emelin donde se puede obtener un lista de certificados pendientes de igual forma se pude pasar una  una encuesta Adoc o cuestionario a las persona visitantes en la Diócesis para obtener un resultado para la medición.
+

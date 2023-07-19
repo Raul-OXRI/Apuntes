@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a21ef9f93dcb08f",
+        "id": "de826eea80d7a7eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f88508180b8010aa",
+            "id": "dee5f36ee924dbf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminario/Propuesta.md",
+                "file": "Aseguramiento/18-07-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminario/Propuesta.md",
+                "file": "Aseguramiento/18-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminario/Propuesta.md",
+                "file": "Aseguramiento/18-07-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminario/Propuesta.md"
+                "file": "Aseguramiento/18-07-2023.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f88508180b8010aa",
+  "active": "dee5f36ee924dbf5",
   "lastOpenFiles": [
+    "Aseguramiento/18-07-2023.md",
     "Seminario/Propuesta.md",
+    "Seminario/Propuesta 2.md",
+    "Seminario/18-07-2023.md",
     "Telecomunicaciones/Comando Generales.md",
     "Seminario/Inicio 11-07-2023.md",
     "Seminario/12-07-2023.md",
