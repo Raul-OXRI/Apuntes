@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de826eea80d7a7eb",
+        "id": "56f755a993d38370",
         "type": "tabs",
         "children": [
           {
-            "id": "dee5f36ee924dbf5",
+            "id": "296ec54f885c3fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aseguramiento/18-07-2023.md",
+                "file": "Aseguramiento/21-07-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aseguramiento/18-07-2023.md",
+                "file": "Aseguramiento/21-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aseguramiento/18-07-2023.md",
+                "file": "Aseguramiento/21-07-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aseguramiento/18-07-2023.md"
+                "file": "Aseguramiento/21-07-2023.md"
               }
             }
           }
@@ -146,15 +146,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dee5f36ee924dbf5",
+  "active": "296ec54f885c3fd4",
   "lastOpenFiles": [
-    "Aseguramiento/18-07-2023.md",
+    "Auditoria/20-07-2023.md",
+    "Aseguramiento/21-07-2023.md",
+    "Seminario/19-07-2023.md",
     "Seminario/Propuesta.md",
-    "Seminario/Propuesta 2.md",
     "Seminario/18-07-2023.md",
+    "Seminario/12-07-2023.md",
+    "Aseguramiento/18-07-2023.md",
+    "Seminario/Propuesta 2.md",
     "Telecomunicaciones/Comando Generales.md",
     "Seminario/Inicio 11-07-2023.md",
-    "Seminario/12-07-2023.md",
     "Imagenes/Programa_esistente.jpeg",
     "Imagenes/Pasted image 20230718003929.png",
     "Imagenes/Pasted image 20230718003832.png",
