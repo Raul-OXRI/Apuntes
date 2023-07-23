@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56f755a993d38370",
+        "id": "330fbe40fd522f45",
         "type": "tabs",
         "children": [
           {
-            "id": "296ec54f885c3fd4",
+            "id": "53d58fb17252b83e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aseguramiento/21-07-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "55f412788e818611",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aseguramiento/21-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aseguramiento/21-07-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aseguramiento/21-07-2023.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +139,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "296ec54f885c3fd4",
+  "active": "53d58fb17252b83e",
   "lastOpenFiles": [
-    "Auditoria/20-07-2023.md",
+    "Matematica Discreta/22-07-2023.md",
+    "Base de Datos I/22-07-2023.md",
+    "Untitled.md",
     "Aseguramiento/21-07-2023.md",
+    "Auditoria/20-07-2023.md",
     "Seminario/19-07-2023.md",
     "Seminario/Propuesta.md",
     "Seminario/18-07-2023.md",
@@ -173,7 +169,6 @@
     "Untitled.canvas",
     "Aseguramiento/14-07-2023.md",
     "Aseguramiento/Inicio 11-07-2023.md",
-    "Untitled.md",
     "Aseguramiento/Comandos.md",
     "Telecomunicaciones/14-07-2023.md",
     "Telecomunicaciones",
