@@ -11,8 +11,12 @@
             "id": "53d58fb17252b83e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/24-07-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "55f412788e818611",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Telecomunicaciones/24-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Telecomunicaciones/24-07-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Telecomunicaciones/24-07-2023.md"
+              }
             }
           }
         ]
@@ -141,9 +148,11 @@
   },
   "active": "53d58fb17252b83e",
   "lastOpenFiles": [
+    "Telecomunicaciones/14-07-2023.md",
+    "Telecomunicaciones/24-07-2023.md",
+    "Untitled.md",
     "Matematica Discreta/22-07-2023.md",
     "Base de Datos I/22-07-2023.md",
-    "Untitled.md",
     "Aseguramiento/21-07-2023.md",
     "Auditoria/20-07-2023.md",
     "Seminario/19-07-2023.md",
@@ -170,7 +179,6 @@
     "Aseguramiento/14-07-2023.md",
     "Aseguramiento/Inicio 11-07-2023.md",
     "Aseguramiento/Comandos.md",
-    "Telecomunicaciones/14-07-2023.md",
     "Telecomunicaciones",
     "Seminario",
     "Proyecto de graduación II/Inicio 10-07-2023.md",
