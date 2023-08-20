@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "387c095a972d2b04",
+        "id": "fb09ee72336d9861",
         "type": "tabs",
         "children": [
           {
-            "id": "e1edf83246f4cc7c",
+            "id": "03502c1ca407dfc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Matematica Discreta/13-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "908c7c2fbc64413e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base de Datos I/Consolidado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Base de Datos I/Consolidado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Base de Datos I/Consolidado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminario/Bomberos.md"
+                "file": "Base de Datos I/Consolidado.md"
               }
             }
           }
@@ -146,10 +159,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e1edf83246f4cc7c",
+  "active": "908c7c2fbc64413e",
   "lastOpenFiles": [
-    "Seminario/19-07-2023.md",
+    "Matematica Discreta/13-08-2023.md",
+    "Base de Datos I/Consolidado.md",
+    "Auditoria/17-08-2023.md",
+    "Aseguramiento/15-08-2023.md",
+    "Seminario/08-15-2023.md",
+    "Telecomunicaciones/14-08-2023.md",
     "Seminario/Bomberos.md",
+    "Seminario/19-07-2023.md",
     "Seminario/18-07-2023.md",
     "Seminario/Inicio 11-07-2023.md",
     "Untitled.md",
@@ -174,16 +193,10 @@
     "Base de Datos I/22-07-2023.md",
     "Auditoria/20-07-2023.md",
     "Seminario/Propuesta.md",
-    "Seminario/12-07-2023.md",
-    "Seminario/Propuesta 2.md",
-    "Telecomunicaciones/Comando Generales.md",
     "Imagenes/Programa_esistente.jpeg",
     "Imagenes/Pasted image 20230718003929.png",
     "Imagenes/Pasted image 20230718003652.png",
     "Imagenes",
-    "Proyecto de graduación II/17-07-2023.md",
-    "Telecomunicaciones/17-07-2023.md",
-    "2023-07-17.md",
     "Untitled.canvas",
     "Telecomunicaciones",
     "Seminario",
