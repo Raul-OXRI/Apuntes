@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Datos I/Consolidado.md",
+                "file": "Auditoria/honey pot.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "55f412788e818611",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Datos I/Consolidado.md",
+                "file": "Auditoria/honey pot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Datos I/Consolidado.md",
+                "file": "Auditoria/honey pot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Datos I/Consolidado.md"
+                "file": "Auditoria/honey pot.md"
               }
             }
           }
@@ -161,8 +162,20 @@
   },
   "active": "908c7c2fbc64413e",
   "lastOpenFiles": [
-    "Matematica Discreta/13-08-2023.md",
+    "WhatsApp Image 2023-08-24 at 8.51.02 PM.jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.13 PM(3).jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.13 PM(2).jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.13 PM(1).jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.13 PM.jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.12 PM(2).jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.12 PM(1) 1.jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.12 PM(1).jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.12 PM 1.jpeg",
+    "WhatsApp Image 2023-08-24 at 8.54.12 PM.jpeg",
+    "Telecomunicaciones/21-08-2023.md",
+    "Auditoria/honey pot.md",
     "Base de Datos I/Consolidado.md",
+    "Matematica Discreta/13-08-2023.md",
     "Auditoria/17-08-2023.md",
     "Aseguramiento/15-08-2023.md",
     "Seminario/08-15-2023.md",
@@ -173,29 +186,18 @@
     "Seminario/Inicio 11-07-2023.md",
     "Untitled.md",
     "Imagenes/Pasted image 20230718003832.png",
-    "Imagenes/Pasted image 20230718003754.png",
-    "Imagenes/Pasted image 20230718003627.png",
-    "Imagenes/Pasted image 20230718000133.png",
-    "Imagenes/Pasted image 20230717235438.png",
     "Base de Datos I/05-08-2023.md",
     "Auditoria/03-08-2023.md",
     "Seminario/02-08-2023.md",
     "Aseguramiento/Actividad no. 1.md",
     "Aseguramiento.md",
     "Telecomunicaciones/24-07-2023.md",
-    "Pasted image 20230801145342.png",
     "Aseguramiento/14-07-2023.md",
     "Aseguramiento/18-07-2023.md",
     "Aseguramiento/21-07-2023.md",
     "Aseguramiento/Comandos.md",
     "Telecomunicaciones/14-07-2023.md",
     "Matematica Discreta/22-07-2023.md",
-    "Base de Datos I/22-07-2023.md",
-    "Auditoria/20-07-2023.md",
-    "Seminario/Propuesta.md",
-    "Imagenes/Programa_esistente.jpeg",
-    "Imagenes/Pasted image 20230718003929.png",
-    "Imagenes/Pasted image 20230718003652.png",
     "Imagenes",
     "Untitled.canvas",
     "Telecomunicaciones",
