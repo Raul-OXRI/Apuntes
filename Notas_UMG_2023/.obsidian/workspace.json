@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "387c095a972d2b04",
+        "id": "72b7a75df9216856",
         "type": "tabs",
         "children": [
           {
-            "id": "e1edf83246f4cc7c",
+            "id": "3f858c64f49e5def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Base de Datos I/Examen Parcial No.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Base de Datos I/Examen Parcial No.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminario/Bomberos.md",
+                "file": "Base de Datos I/Examen Parcial No.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminario/Bomberos.md"
+                "file": "Base de Datos I/Examen Parcial No.1.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e1edf83246f4cc7c",
+  "active": "3f858c64f49e5def",
   "lastOpenFiles": [
-    "Seminario/19-07-2023.md",
+    "Base de Datos I/Examen Parcial No.1.md",
+    "Aseguramiento/Reto No.1.md",
     "Seminario/Bomberos.md",
+    "Seminario/19-07-2023.md",
     "Seminario/18-07-2023.md",
     "Seminario/Inicio 11-07-2023.md",
     "Untitled.md",
@@ -182,8 +184,6 @@
     "Imagenes/Pasted image 20230718003652.png",
     "Imagenes",
     "Proyecto de graduación II/17-07-2023.md",
-    "Telecomunicaciones/17-07-2023.md",
-    "2023-07-17.md",
     "Untitled.canvas",
     "Telecomunicaciones",
     "Seminario",
