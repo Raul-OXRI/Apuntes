@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d739c1f3229391",
+        "id": "2cf3b52adc873627",
         "type": "tabs",
         "children": [
           {
-            "id": "dfee2df5a69dde9b",
+            "id": "45f31b4ee7b82c18",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dfee2df5a69dde9b",
+  "active": "45f31b4ee7b82c18",
   "lastOpenFiles": [
+    "Seminario/Carta de solisitud.md",
+    "Seminario/Carta de invitacion.md",
+    "Tarea.md",
     "Seminario/Marco Teorico.md",
     "Telecomunicaciones/practicaACLExtendida.md",
     "Algebra lineal.md",
@@ -173,9 +176,6 @@
     "Telecomunicaciones/24-07-2023.md",
     "Aseguramiento/14-07-2023.md",
     "Aseguramiento/18-07-2023.md",
-    "Aseguramiento/21-07-2023.md",
-    "Aseguramiento/Comandos.md",
-    "Telecomunicaciones/14-07-2023.md",
     "Imagenes",
     "Untitled.canvas",
     "Telecomunicaciones",
